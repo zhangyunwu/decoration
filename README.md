@@ -183,6 +183,8 @@ https://www.zhihu.com/question/29629176/answer/2003000024
 抛釉砖更便宜。
 全瓷砖比抛釉砖更耐用，地砖最好用全瓷砖，卫生间也用全瓷砖，厨房可用抛釉砖。
 
+![瓷砖工艺](https://github.com/zhangyunwu/decoration/blob/main/pic/%E7%93%B7%E7%A0%96%E5%B7%A5%E8%89%BA.jpg)
+
 ![瓷砖种类](https://github.com/zhangyunwu/decoration/blob/main/pic/%E7%93%B7%E7%A0%96%E5%88%86%E7%B1%BB.jpg)
 
 全瓷砖可先少买，不够再补货；抛釉砖可稍微多买，有剩可退。加工砖有剩没法退。
@@ -213,7 +215,7 @@ https://www.zhihu.com/question/29629176/answer/2003000024
 
 地砖铺贴完毕后需做瓷砖保护。
 
-
+总结：墙砖用瓷片，厨卫地砖用抛光砖，客餐厅卧室用釉面砖。
 ## 刮腻子
 
 ## 刷漆、墙布
